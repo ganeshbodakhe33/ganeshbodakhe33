@@ -9,13 +9,13 @@
 
 - 👨‍💻 All of my projects are available at [ganeshbodakhe.com](https://www.ganeshbodakhe.com/)
 
-- 📝 I regularly write articles on [https://www.ganeshbodakhe.blogspot.com](ganeshbodakhe.blogspot.com)
+- 📝 I regularly write articles on [ganeshbodakhe.blogspot.com](https://www.ganeshbodakhe.blogspot.com)
 
 - 💬 Ask me about **Python, Data science, ML, Frontend development, UI/UX, DBMS**
 
 - 📫 How to reach me **ganeshbodakhe33@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/196MFl61ze1le6SS0gz4QNq_3YeMcITbH/view](https://drive.google.com/file/d/196MFl61ze1le6SS0gz4QNq_3YeMcITbH/view)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/196MFl61ze1le6SS0gz4QNq_3YeMcITbH/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
