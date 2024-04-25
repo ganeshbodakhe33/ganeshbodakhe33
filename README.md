@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [ganeshbodakhe.com](https://www.ganeshbodakhe.com/)
 
-- 📝 I regularly write articles on [ganeshbodakhe.blogspot.com](https://www.ganeshbodakhe.blogspot.com)
+- 📝 I regularly write articles on [ganeshbodakhe.blogspot.com](https://ganeshbodakhe.blogspot.com/)
 
 - 💬 Ask me about **Python, Data science, ML, Frontend development, UI/UX, DBMS**
 
