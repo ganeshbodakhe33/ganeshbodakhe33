@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Machine Learning(Advanced)**
 
-- 👨‍💻 All of my projects are available at [https://www.ganeshbodakhe.com/](ganeshbodakhe.com)
+- 👨‍💻 All of my projects are available at [ganeshbodakhe.com](https://www.ganeshbodakhe.com/)
 
 - 📝 I regularly write articles on [https://www.ganeshbodakhe.blogspot.com](ganeshbodakhe.blogspot.com)
 
