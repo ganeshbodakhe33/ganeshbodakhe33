@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&width=680&height=45&lines=%F0%9F%94%A5+Software+Engineer+%40+Soci%C3%A9t%C3%A9+G%C3%A9n%C3%A9rale%2C+Bengaluru;%F0%9F%A7%A0+Building+RAG+%26+LLM+Systems+from+scratch;%E2%9A%A1+Java+Spring+Boot+%7C+FastAPI+%7C+Python+%7C+React;%F0%9F%93%88+SonarQube+Coverage%3A+10%25+%E2%9E%9F+82%25+%E2%80%94+real+impact;%F0%9F%8F%86+Top+15+Globally+%E2%80%94+GBIS+Hackathon+%281478+teams%29;%F0%9F%93%9C+Published+Researcher+%40+ICWIHI+2025)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=2500&pause=700&color=00F5FF&center=true&vCenter=true&width=880&height=45&lines=%F0%9F%92%BC+Software+Engineer+%40+Soci%C3%A9t%C3%A9+G%C3%A9n%C3%A9rale;%F0%9F%9A%80+Building+Real-World+AI+Applications;%F0%9F%A7%A0+LLMs+%7C+RAG+%7C+Backend+Engineering;%E2%9A%A1+FastAPI+%7C+Python+%7C+React+%7C+Java+Spring+Boot)](https://git.io/typing-svg)
 
 <br/>
 
