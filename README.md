@@ -51,6 +51,18 @@ class GaneshBodakhe:
 
 ---
 
+## 🐍 CONTRIBUTIONS GET EATEN ALIVE
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ganeshbodakhe33/ganeshbodakhe33/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ganeshbodakhe33/ganeshbodakhe33/output/github-snake.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/ganeshbodakhe33/ganeshbodakhe33/output/github-snake.svg" />
+</picture>
+
+</div>
+
 ## 🏢 EXPERIENCE
 
 <table width="100%">
@@ -205,17 +217,6 @@ class GaneshBodakhe:
 ---
 
 
-## 🐍 CONTRIBUTIONS GET EATEN ALIVE
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ganeshbodakhe33/ganeshbodakhe33/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ganeshbodakhe33/ganeshbodakhe33/output/github-snake.svg" />
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/ganeshbodakhe33/ganeshbodakhe33/output/github-snake.svg" />
-</picture>
-
-</div>
 ## 🎓 EDUCATION
 
 ```
