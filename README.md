@@ -35,7 +35,7 @@ class GaneshBodakhe:
     education   = "BE – Artificial Intelligence & Data Science | CGPA: 9.05/10 🎓"
     location    = "Bengaluru, India 🇮🇳"
 
-    current     = ["Java Spring Boot", "ML on Financial Data", "CI/CD @ SG"]
+    current     = ["FastAPI", "AI", "React + Next", "ML on Financial Data", "CI/CD @ SG"]
     loves       = ["RAG Systems", "LLMs", "FastAPI", "Building things that ship"]
     ask_me      = ["Python", "GenAI", "Backend Dev", "Data Science", "Spring Boot"]
 
@@ -241,7 +241,7 @@ class GaneshBodakhe:
 
 ```
 ┌─ Currently vibing with ────────────────────────────────────────────────┐
-│                                                                         │
+│                                                                        │
 │   🧠  Advanced Machine Learning & LLM Fine-tuning                      │
 │   🔍  Vector Databases & Semantic Search (FAISS, Chroma, Pinecone)     │
 │   🏗️   Microservices architecture with Spring Boot                     │
@@ -304,7 +304,7 @@ class GaneshBodakhe:
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=footer&text=Let%27s+Build+Something+Extraordinary+%F0%9F%9A%80&fontSize=22&fontColor=ffffff&animation=twinkling&fontAlignY=55" width="100%" />
 
-### 🤝 Open to Collabs · AI Projects · Backend Systems · Open Source
+### 🤝 Open to Collabs · AI Projects · Backend Systems · Open Source · Freelancing
 
 [![Email](https://img.shields.io/badge/📧_Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ganeshbodakhe33@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ganeshbodakhe)
