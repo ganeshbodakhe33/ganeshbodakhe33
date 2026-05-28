@@ -39,7 +39,7 @@ class GaneshBodakhe:
     loves       = ["RAG Systems", "LLMs", "FastAPI", "Building things that ship"]
     ask_me      = ["Python", "GenAI", "Backend Dev", "Data Science", "Spring Boot"]
 
-    superpower  = "Took SonarQube coverage from 10% → 82% in production 🚀"
+    superpower  = "Took SonarQube coverage from 10% → 83% in production 🚀"
     research    = "Published @ ICWIHI 2025 (International Conference) 📜"
     achievement = "Top 15 Globally — GBIS Hackathon | 1478 teams worldwide 🏆"
     
