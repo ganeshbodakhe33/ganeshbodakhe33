@@ -89,7 +89,7 @@ class GaneshBodakhe:
 - 🕷️ Automated data extraction from **100+ legal sources** via Python scraping
 - 🧪 Tested & debugged **Alfa Sage, Alfa Dev, Alfa HQ** end-to-end
 - 💡 Led multiple **POC projects** exploring GenAI in healthcare workflows
-- 🏅 Top 20 Finalist — **IBM SkillsBuild** Maharashtra State Hackathon
+- 🏅 Top 20 Finalist — **IBM SkillsBuild** Maharashtra State level Hackathon
 
 </td>
 </tr>
