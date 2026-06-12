@@ -73,7 +73,7 @@ class GaneshBodakhe:
 **Software Engineer · Bengaluru**
 
 - 🤖 ML prediction & classification models on **financial + audit data**
-- ☕ Java Spring Boot **legacy multi-module Maven** refactoring & feature dev
+- ☕ Java Spring Boot **legacy multi-module Maven** refactoring & feature development
 - 📊 Grew SonarQube test coverage: **10% → 82%** by killing tech debt
 - 🔧 Builds & deployments via **Jenkins CI/CD pipelines**
 - 🔥 Production support — resolving critical issues & release management
