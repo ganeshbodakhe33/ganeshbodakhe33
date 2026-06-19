@@ -97,7 +97,7 @@ class GaneshBodakhe:
 
 ---
 
-## 🚀 PROJECTS &nbsp;— &nbsp;LIVE IN PROD 🟢
+## 🚀 PROJECTS &nbsp;— &nbsp;LIVE IN PRODUCTION 🟢
 
 > Every single one is deployed. Not just README projects. Real URLs. Real users.
 
