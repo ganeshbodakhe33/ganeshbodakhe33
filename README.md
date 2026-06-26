@@ -69,7 +69,7 @@ class GaneshBodakhe:
 <tr>
 <td width="50%" valign="top">
 
-### 🏦 Société Générale &nbsp;`Feb 2025 – Present`
+### 🏦 Société Générale &nbsp;`Feb 2025 - Present`
 **Software Engineer · Bengaluru**
 
 - 🤖 ML prediction & classification models on **financial + audit data**
